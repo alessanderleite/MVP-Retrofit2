@@ -2,6 +2,8 @@ package br.com.alessanderleite.mvpretrofit2.main_activity;
 
 import java.util.ArrayList;
 
+import br.com.alessanderleite.mvpretrofit2.model.Notice;
+
 public interface MainContract {
 
     interface presenter {
