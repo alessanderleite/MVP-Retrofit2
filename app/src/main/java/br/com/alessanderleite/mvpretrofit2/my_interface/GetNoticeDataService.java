@@ -8,5 +8,5 @@ public interface GetNoticeDataService {
 
     @GET("bins/1bsqcn/")
     Call<NoticeList> getNoticeData();
-    
+
 }
