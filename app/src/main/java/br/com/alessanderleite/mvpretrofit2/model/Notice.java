@@ -44,7 +44,7 @@ public class Notice {
         this.brief = brief;
     }
 
-    public String getFilesource() {
+    public String getFileSource() {
         return filesource;
     }
 
